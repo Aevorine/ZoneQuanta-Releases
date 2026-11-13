@@ -1,6 +1,6 @@
 {
   "star": {
-    "on": false,
+    "on": true,
     "minDays": 7,
     "maxDays": 21
   }
