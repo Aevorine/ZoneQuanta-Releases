@@ -14,8 +14,8 @@ Windows桌面世界时钟 + 任务栏网速 / CPU / 内存监控 + 应用流量�
 |---|---|
 | 世界时钟 | 本地 + 任意城市（内置36个热门城市，可搜索系统全部时区），夏令时自动切换，24小时日轴按经纬度显示日出日落 |
 | 任务栏监控条 | 上传 / 下载速度、今日流量、CPU、内存，悬停看详情与实时曲线 |
-| 应用流量统计 | 按应用统计上传 / 下载，今天、本周、账期、一年等范围；每月额度与每日可用量 |
-| 快捷面板 | 类似「开始」菜单的已固定：自动分组、文件夹、网站图标；搜索应用、文件（自带全盘索引）、设置、网页、算式，支持拼音与错字 |
+| 应用流量统计 | 按应用统计上传 / 下载，今天、本周、账期、一年等范围；流量套餐：每月、每 N 天、月包 / 季包 / 半年包 / 年包，到期提醒与每日可用量 |
+| 快捷面板 | 类似「开始」菜单的已固定：自动分组、整齐排列、卡片按「几行×几列」显示；图标像文件一样多选、剪切、粘贴；搜索应用、文件（自带全盘索引）、设置、网页、算式，支持拼音与错字 |
 | 电源 | 锁定 / 睡眠 / 休眠 / 重启 / 关机，定时计划与倒计时，电量触发，关机前自动保存文档 |
 | 浏览器新标签页 | Chrome / Edge扩展：分组图标、文件夹、书签导入、四十个搜索引擎、图片 / 视频背景，可接自建同步服务，手机平板同一份数据 |
 | 外观 | 四套低饱和护眼主题，动画可关；内存约75MB，空闲CPU通常在1%以内 |
@@ -37,7 +37,7 @@ Windows桌面世界时钟 + 任务栏网速 / CPU / 内存监控 + 应用流量�
 
 ## English
 
-A Windows desktop world clock with a taskbar monitor (network speed, CPU, memory), per-app traffic statistics with a monthly quota, a quick launcher with search (apps, files, settings, web), power actions with schedules, and a new-tab page for Chrome / Edge. One self-contained exe, nothing else to install.
+A Windows desktop world clock with a taskbar monitor (network speed, CPU, memory), per-app traffic statistics with data plans (monthly, every N days, 30 / 90 / 180 / 360-day packs), a quick launcher with tidy groups and file-style select / cut / paste plus search (apps, files, settings, web), power actions with schedules, and a new-tab page for Chrome / Edge. One self-contained exe, nothing else to install.
 
 **[Download the latest release](https://github.com/Aevorine/ZoneQuanta-Releases/releases/latest)** (Windows 10 / 11, x64). If you find it useful, a ⭐ is appreciated.
 
